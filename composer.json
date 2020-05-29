@@ -1,11 +1,11 @@
 {
-    "name": "overtrue\/weather",
+    "name": "chuck\/weather",
     "description": "A weather SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "i@overtrue.me"
+            "name": "chuck",
+            "email": "2811863274@qq.com"
         }
     ],
     "require": {
@@ -15,13 +15,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Overtrue\\Weather\\": "src"
+            "Chuck\\Weather\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Overtrue\\Weather\\ServiceProvider"
+                "Chuck\\Weather\\ServiceProvider"
             ]
         }
     }

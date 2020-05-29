@@ -1,8 +1,8 @@
 <?php
 $header = <<<EOF
-This file is part of the overtrue/weather.
+This file is part of the chuck/weather.
 
-(c) overtrue <i@overtrue.me>
+(c) chuck <2811863274@qq.com>
 
 This source file is subject to the MIT license that is bundled.
 EOF;

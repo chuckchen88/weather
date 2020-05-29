@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Overtrue\Weather\Exceptions;
+namespace Chuck\Weather\Exceptions;
 
 class InvalidArgumentException extends Exception
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\Weather\Tests;
+namespace Chuck\Weather\Tests;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;

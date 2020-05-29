@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\Weather\Exceptions;
+namespace Chuck\Weather\Exceptions;
 
 class Exception extends \Exception
 {
