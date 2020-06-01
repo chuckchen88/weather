@@ -27,8 +27,7 @@ class Weather
 	}
 
 	public function getWeather($city,$type = 'base',$format = 'json')
-	{
-		$url = 'https://restapi.amap.com/v3/weather/weatherInfo';
+	{$url = 'https://restapi.amap.com/v3/weather/weatherInfo';
         $types = [
             'live' => 'base',
             'forecast' => 'all',
